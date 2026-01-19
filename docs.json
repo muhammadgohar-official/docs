@@ -7,7 +7,7 @@
           "intro"
         ]
       },
-      "theme": "intro"
+      "theme": "intro",
       {
         "tab": "API Reference",
         "openapi": "openapi.json",
